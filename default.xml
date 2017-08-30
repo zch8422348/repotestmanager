@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+    <remote name="origin" fetch="https://github.com/zch8422348/repotest1.git"/>  
+        <default revision="master" remote="origin" />  
+            <project name="example" path="example"/>  
+</manifest>
